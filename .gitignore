@@ -1,0 +1,5 @@
+.classpath
+.project
+.settings/*
+target/classes/lemming/*.class
+target/test-classes/lemming/*.class
